@@ -1,0 +1,16 @@
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.exe
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.deps.json
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.json
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.dev.json
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.dll
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\ref\helloWorld.dll
+C:\Users\safra\Desktop\helloWorld\bin\Debug\net5.0\helloWorld.pdb
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.csprojAssemblyReference.cache
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfo.cs
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.dll
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\ref\helloWorld.dll
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.pdb
+C:\Users\safra\Desktop\helloWorld\obj\Debug\net5.0\helloWorld.genruntimeconfig.cache
